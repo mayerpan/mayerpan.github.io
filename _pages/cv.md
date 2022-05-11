@@ -16,15 +16,20 @@ Education
 
 Work experience
 ======
-* New Media article editor for Chinese Laser Press
+* Scientific editor for Chinese Laser Press (part-time)
 
   
 Skills
 ======
+### Languages
 * French (TFU4)
-* Japanese (JLPT-N2) on the list
+* Japanese (JLPT-N2) wish to accomplish in july 2022
 * Spanish (Basic)
 * Arabic (Basic)
+### Programming
+* Python (intermediate)
+* C/C++ (beginner)
+* Rust (beginner)
 
 Publications
 ======
@@ -32,7 +37,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-
-Service and leadership
+Hobbies
 ======
-* Scientific Editor for Chinese Laser Press (part-time)
+I am fasinated by Chinese classical litterature and ancient architecture. I am also interested in Islamic architecture and calligraphy. 
+In my spare time, I would  like  to go cycling and playing the guitar.
