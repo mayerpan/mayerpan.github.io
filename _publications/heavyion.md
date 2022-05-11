@@ -1,9 +1,12 @@
 ---
-title: 'Blog Post number 1'
-date: 2012-08-14
-permalink: /posts/2012/08/blog-post-1/
-tags:
-  - cool posts
-  - category1
-  - category2
+title: "Super-Heavy Ions Acceleration Driven by Ultrashort Laser Pulses at Ultrahigh Intensity"
+collection: publications
+permalink: /publication/heavyion
+date: 2021
+venue: 'Physical Review X'
+citation: 'P.Wang,Z.Pan. (2021). &quot;Super-Heavy Ions Acceleration Driven by Ultrashort Laser Pulses at Ultrahigh Intensity.&quot; <i>Physical Review X</i>. 11(2021).'
 ---
+
+[Download paper here](https://doi.org/10.1103/PhysRevX.11.021049)
+
+Recommended citation: P.Wang, Z.Pan. (2021). "Super-Heavy Ions Acceleration Driven by Ultrashort Laser Pulses at Ultrahigh Intensity." <i>Journal 1</i>. 11(2021).
