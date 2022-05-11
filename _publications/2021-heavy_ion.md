@@ -1,7 +1,7 @@
 ---
 title: "Super-Heavy Ions Acceleration Driven by Ultrashort Laser Pulses at Ultrahigh Intensity"
 collection: publications
-permalink: /publication/heavyion
+permalink: /publication/2021-heavy_ion
 date: 2021
 venue: 'Physical Review X'
 citation: 'P.Wang,Z.Pan. (2021). &quot;Super-Heavy Ions Acceleration Driven by Ultrashort Laser Pulses at Ultrahigh Intensity.&quot; <i>Physical Review X</i>. 11(2021).'
