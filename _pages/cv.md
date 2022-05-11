@@ -11,7 +11,8 @@ redirect_from:
 Education
 ======
 <img src='/images/buaa_logo.jpg' width='50'> B.S. in Applied Physics, Beihang University, 2018
-<img src='/images/pku_logo.jpg' width='50'> Ph.D in Nuclear Technologies and Applications, Peking University, 2023 (expected)
+
+<img src='/images/pku_logo.png' width='50'> Ph.D in Nuclear Technologies and Applications, Peking University, 2023 (expected)
 
 Work experience
 ======
