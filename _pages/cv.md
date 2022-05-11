@@ -42,5 +42,5 @@ Publications
 
 Hobbies
 ======
-I am fasinated by Chinese classical litterature and ancient architecture. I am also interested in Islamic architecture and calligraphy. 
+I am fascinated by Chinese classical litterature and ancient architecture. I am also interested in Islamic architecture and calligraphy. 
 In my spare time, I would  like  to go cycling and playing the guitar.
