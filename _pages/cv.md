@@ -21,11 +21,13 @@ Work experience
   
 Skills
 ======
+
 ### Languages
 * French (TFU4)
 * Japanese (JLPT-N2) wish to accomplish in july 2022
 * Spanish (Basic)
 * Arabic (Basic)
+
 ### Programming
 * Python (intermediate)
 * C/C++ (beginner)
@@ -36,6 +38,8 @@ Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+
 
 Hobbies
 ======
