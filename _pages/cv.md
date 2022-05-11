@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* ![Beihang University](/images/buaa_logo.jpg) B.S. in Applied Physics, Beihang University, 2014
-* ![Peking University](/images/pku_logo.png) Ph.D in Nuclear Technologies and Applications, Peking University, 2023 (expected)
+* ![Beihang University](/images/buaa_logo.jpg =50x50) B.S. in Applied Physics, Beihang University, 2014
+* ![Peking University](/images/pku_logo.png =50x50) Ph.D in Nuclear Technologies and Applications, Peking University, 2023 (expected)
 
 Work experience
 ======
