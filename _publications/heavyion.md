@@ -9,4 +9,4 @@ citation: 'P.Wang,Z.Pan. (2021). &quot;Super-Heavy Ions Acceleration Driven by U
 
 [Download paper here](https://doi.org/10.1103/PhysRevX.11.021049)
 
-Recommended citation: P.Wang, Z.Pan. (2021). "Super-Heavy Ions Acceleration Driven by Ultrashort Laser Pulses at Ultrahigh Intensity." <i>Journal 1</i>. 11(2021).
+Recommended citation: P.Wang, Z.Pan. (2021). "Super-Heavy Ions Acceleration Driven by Ultrashort Laser Pulses at Ultrahigh Intensity." <i>Physical Review X</i>. 11(2021).
