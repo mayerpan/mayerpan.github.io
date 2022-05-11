@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "潘卓 Zhuo Pan"
-  avatar           : "/images/profile.png"
+  avatar           : "images/profile.png"
   bio              : "PhD Candidate in Laser Plasma Physics at Peking University"
   location         : "Beijing CN"
   employer         :
