@@ -1,7 +1,7 @@
 ---
 title: "Fabrication of large-area uniform carbon nanotube foams as near-critical-density targets for laser–plasma experiments"
 collection: publications
-permalink: /publication/2021-cnf_fab
+permalink: /publication/2021/11/cnf_fab
 date: 2021-11-30
 venue: 'High Power Laser Science and Engineering'
 citation: 'P.Wang,Z.Pan. (2021). &quot;Fabrication of large-area uniform carbon nanotube foams as near-critical-density targets for laser–plasma experiments.&quot; <i>High Power Laser Science and Engineering</i>. 18(2021).'
