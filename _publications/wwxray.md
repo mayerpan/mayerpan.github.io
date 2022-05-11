@@ -1,1 +1,10 @@
+---
+title: "High-efficiency water-window x-ray generation from nanowire array targets irradiated with femtosecond laser pulses"
+collection: publications
+permalink: /publication/wwxray
+date: 2021-02-15
+venue: 'Optics Express'
+citation: 'Y. Shou, Z.Pan. (2021). &quot;High-efficiency water-window x-ray generation from nanowire array targets irradiated with femtosecond laser pulses.&quot; <i>Optics Express</i>. 29(2021).'
+---
 
+[Download paper here](https://opg.optica.org/oe/abstract.cfm?uri=oe-29-4-5427)
