@@ -24,7 +24,7 @@ Skills
 
 ### Languages
 * French (TFU4)
-* Japanese (JLPT-N2) wish to accomplish in july 2022
+* Japanese (JLPT-N2 to be accomplish in July 2022)
 * Spanish (Basic)
 * Arabic (Basic)
 
