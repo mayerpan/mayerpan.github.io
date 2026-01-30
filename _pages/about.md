@@ -9,12 +9,9 @@ redirect_from:
 ---
 
 ## About me
-I am a PhD candidate in high field physics. My research interest is focused on the electron acceleration and X/gamma rays generation in plasmas.
+I am a Postdoc in plasma physics. My research interest is focused on the electron acceleration and X/gamma rays generation in plasmas.
 
-### News
-* 2021.06  Go to the LFRC,CAEP for experiments again.
-* 2020.09  Go to the LFRC,CAEP for experiments. 
-* 2019.11  Visit the GIST,IBS in South Korea.
+
 
 ## Publications
 
