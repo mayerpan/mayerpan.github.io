@@ -12,12 +12,11 @@ Education
 ======
 <img src='/images/buaa_logo.jpg' width='50'> B.S. in Applied Physics, Beihang University, 2018
 
-<img src='/images/pku_logo.png' width='50'> Ph.D in Nuclear Technologies and Applications, Peking University, 2018-present
+<img src='/images/pku_logo.png' width='50'> Ph.D in Nuclear Technologies and Applications, Peking University, 2026
 
 Work experience
 ======
-* Scientific editor for Chinese Laser Press (part-time)
-
+* Postdoc, School of Physics, Peking University, 2026-present
   
 Skills
 ======
@@ -30,7 +29,6 @@ Skills
 
 ### Programming
 * Python
-* C/C++ 
 * Rust 
 
 Publications
@@ -44,4 +42,4 @@ Publications
 Hobbies
 ======
 I am fascinated by Chinese classical literature and ancient architecture. I am also interested in Islamic architecture and calligraphy. 
-In my spare time, I like to go cycling and playing the guitar.
+In my spare time, I like to go cycling around Beijing.
